@@ -6,7 +6,9 @@ namespace pogam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("waduh cuh");
+            string sting = "grandmaster gooner";
+
+            Console.WriteLine(sting);
         }
     }
 }
